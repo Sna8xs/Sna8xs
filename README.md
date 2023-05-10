@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Sna8xs/Sna8xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://dcbadge.vercel.app/api/shield/592062642693079040)
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning cpp
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about nothing
-- 📫 How to reach me: Darknet
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sna8xs)](https://github.com/anuraghazra/github-readme-stats)
