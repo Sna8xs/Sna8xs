@@ -1,6 +1,6 @@
 ## Hey there :wave: I am Sna8xs
 ## About me
-- 👨 17 years old
+- 👨 18 years old
 - 👨‍💻 studies IT
 - 🚀 currently learning rocket science
 - 🇩🇪  based in Germany
